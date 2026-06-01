@@ -1,0 +1,44 @@
+# Environment
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Data (opcjonalnie odkomentuj jeśli nie chcesz trzymać danych w repo)
+# data/raw/
+# data/processed/
+
+# Baza danych
+*.db
+*.sqlite
+*.sqlite3
+
+# Power BI (duże pliki)
+*.pbix
+
+# Excel (generowane automatycznie)
+financial_report.xlsx
+
+# Logi
+logs/*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
