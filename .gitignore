@@ -25,7 +25,6 @@ env/
 *.sqlite3
 
 # Power BI (duże pliki)
-*.pbix
 
 # Excel (generowane automatycznie)
 financial_report.xlsx
