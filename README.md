@@ -168,8 +168,3 @@ Każdy skrypt zapisuje logi do folderu `logs/`:
 - `load_data.log` — liczba załadowanych rekordów per tabela
 - `export_excel.log` — status generowania raportu
 
----
-
-## Licencja
-
-MIT
